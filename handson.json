@@ -1,0 +1,28 @@
+{
+  "directory": [
+    {
+      "folderName": "outconfig",
+      "title": "部署"
+    },
+    {
+      "folderName": "rpc",
+      "title": "RPC 调用"
+    },
+    {
+      "folderName": "servicediscovery",
+      "title": "服务注册与发现"
+    },
+    {
+      "folderName": "circuitbreak",
+      "title": "限流与熔断"
+    },
+    {
+      "folderName": "distributedtransaction",
+      "title": "分布式事务"
+    },
+    {
+      "folderName": "distributedmessaging",
+      "title": "分布式消息"
+    }
+  ]
+}
